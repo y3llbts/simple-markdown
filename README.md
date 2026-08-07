@@ -1,6 +1,7 @@
 # Simple Markdown
 
 A simple markdown editor.
+Created as part of a test assignment.
 
 That's all that the app can do:
 ```php
